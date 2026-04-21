@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **EpicCoder1234/EpicCoder1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Hruday Nara 👋
 **AI Systems Builder | Applied ML Researcher | Full-Stack Developer**
-**Carnegie Mellon University School of Computer Science | Class of 2030**
+* **Carnegie Mellon University School of Computer Science | Class of 2030**
 
 I’m a tinkerer who loves building intelligent systems that solve real-world problems. My work spans from high-performance **Applied Machine Learning** for chaotic biological systems to **Low-Latency Assistive OS** design. I want to work at the intersection of complex data and actionable insights in AI
 
