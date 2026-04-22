@@ -13,36 +13,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Hruday Nara 👋
+# Hi, I'm Hruday Nara 
 **AI Systems Builder | Applied ML Researcher | Full-Stack Developer**
 * **Carnegie Mellon University School of Computer Science | Class of 2030**
 
-I’m a tinkerer who loves building intelligent systems that solve real-world problems. My work spans from high-performance **Applied Machine Learning** for chaotic biological systems to **Low-Latency Assistive OS** design. I want to work at the intersection of complex data and actionable insights in AI
+I’m a tinkerer who loves building intelligent systems that solve real-world problems, specifically with the advent of Artifical Intelligence and modern day tools.
 
 ---
 
 ###  Technical Skills
 * **AI/ML:** PyTorch, TensorFlow, YOLOv8 (Mobile-edge), ONNX Runtime, LSTMs, Gated Recurrent Units (GRUs), Reservoir Computing.
-* **Core Skills:** Computer Vision (Midas V2, Object Detection), RAG (Retrieval-Augmented Generation), Multimodal Streams, Natural Language Task Engines.
-* **Languages & Tools:** Python, Java, Kotlin, Dart (Flutter), Firebase, Google Maps SDK, Git, Android Studio.
+* **Core Skills:** Computer Vision, RAG, Multimodal Streams, Natural Language Task Engines, ML and complex NN architecture, Mobile Development, Desktop Development, Agentic Workflows
+* **Languages & Tools:** Python, Java, Kotlin, Dart (Flutter), JavaScript, C++, HTML5, React, NodeJS, FlaskAPI, FAST API, Firebase, Git.
 
 ---
 
 ### Featured AI Applications
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **GuideGlass** | A low-latency wearable OS for the visually impaired. Synchronizes real-time vision, GPS telemetry, and Gemini LLM reasoning with <100ms hazard alerts. | YOLOv8, Gemini Live API, Kotlin |
-| **Gamify Gains** | Full-stack fitness ecosystem featuring a context-aware AI trainer that synthesizes user data for personalized workout/diet optimizations. | Flutter, Firebase, Google AI |
-| **Research Assistant** | A two-layer RAG system designed for ML students. Indexes technical papers and cross-references them with a personal concepts knowledge base for grounding. | FastAPI, ChromaDB, LangChain |
-| **Autonomous Calendar** | LLM-driven agent that manages scheduling via natural language, learning user habits through RAG to suggest optimal time slots. | Python, Gemini API |
-| **Chaotic Bio-Forecasting** | Neural operator framework developed to predict hematopoietic dynamics (Mackey-Glass equations) in leukemia patients using only initial conditions. | PyTorch, NumPy |
+| **GuideGlass** | A low-latency wearable OS for the visually impaired. Synchronizes real-time vision, GPS telemetry, and Gemini LLM reasoning with <100ms hazard alerts. | Link not available, not open source |
+| **Gamify Gains** | Full-stack fitness ecosystem featuring a context-aware AI trainer that synthesizes user data for personalized workout/diet optimizations. | link here |
+| **Research Assistant** | A two-layer RAG system designed for ML students. Indexes technical papers and cross-references them with a personal concepts knowledge base for grounding. | link here |
+| **Autonomous Calendar** | LLM-driven agent that manages scheduling via natural language, learning user habits through RAG to suggest optimal time slots. | link here |
+| **Chaotic Bio-Forecasting** | Neural operator training framework developed to predict hematopoietic dynamics (Mackey-Glass equations) in leukemia patients using only initial conditions. | links here |
 
 ---
 
 ###  Research & Impact
-* **Lead Researcher:** Published in **IEEE Xplore** and **Elsevier** for AI applications in chaotic systems and drug discovery (F-NMR chemical shifts).
+* **Lead Researcher:** Published in **IEEE Xplore** and **Elsevier** for AI applications in predicting chaotic systems and drug discovery (F-NMR chemical shifts).
 * **Award-Winning Presenter:** Received **Best Oral Presentation** at the IEEE International Conference for Bioinformatics and Biotechnology (Hangzhou, 2025).
-* **Community Builder:** Founded **LG Hacks**, the first large-scale hackathon tradition in Los Gatos, reaching 200+ participants and managing $10k+ in sponsorships.
+* **Leadership:** Founded **LG Hacks**, the first large-scale hackathon tradition in Los Gatos, reaching 400+ participants and managing $10k+ in sponsorships.
 
 ---
 
