@@ -31,11 +31,11 @@ I’m a tinkerer who loves building intelligent systems that solve real-world pr
 ### Featured AI Applications
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **GuideGlass** | A low-latency wearable OS for the visually impaired. Synchronizes real-time vision, GPS telemetry, and Gemini LLM reasoning with <100ms hazard alerts. | Link not available, not open source |
-| **Gamify Gains** | Full-stack fitness ecosystem featuring a context-aware AI trainer that synthesizes user data for personalized workout/diet optimizations. | link here |
-| **Research Assistant** | A two-layer RAG system designed for ML students. Indexes technical papers and cross-references them with a personal concepts knowledge base for grounding. | link here |
-| **Autonomous Calendar** | LLM-driven agent that manages scheduling via natural language, learning user habits through RAG to suggest optimal time slots. | link here |
-| **Chaotic Bio-Forecasting** | Neural operator training framework developed to predict hematopoietic dynamics (Mackey-Glass equations) in leukemia patients using only initial conditions. | links here |
+| **GuideGlass** | A low-latency wearable OS for the visually impaired. Synchronizes real-time vision, GPS telemetry, and Gemini LLM reasoning with <100ms hazard alerts. |
+| **Gamify Gains** | Full-stack fitness ecosystem featuring a context-aware AI trainer that synthesizes user data for personalized workout/diet optimizations. |
+| **Research Assistant** | A two-layer RAG system designed for ML students. Indexes technical papers and cross-references them with a personal concepts knowledge base for grounding. |
+| **Autonomous Calendar** | LLM-driven agent that manages scheduling via natural language, learning user habits through RAG to suggest optimal time slots. |
+| **Chaotic Bio-Forecasting** | Neural operator training framework developed to predict hematopoietic dynamics (Mackey-Glass equations) in leukemia patients using only initial conditions. |
 
 ---
 
