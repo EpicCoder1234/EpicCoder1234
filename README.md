@@ -29,8 +29,8 @@ I’m a tinkerer who loves building intelligent systems that solve real-world pr
 ---
 
 ### Featured AI Applications
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
+| Project | Description |
+| :--- | :--- |
 | **GuideGlass** | A low-latency wearable OS for the visually impaired. Synchronizes real-time vision, GPS telemetry, and Gemini LLM reasoning with <100ms hazard alerts. |
 | **Gamify Gains** | Full-stack fitness ecosystem featuring a context-aware AI trainer that synthesizes user data for personalized workout/diet optimizations. |
 | **Research Assistant** | A two-layer RAG system designed for ML students. Indexes technical papers and cross-references them with a personal concepts knowledge base for grounding. |
